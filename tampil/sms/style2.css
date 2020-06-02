@@ -1,0 +1,27 @@
+#tabelku {
+	border-collapse:collapse;
+}
+
+#tabelku  th { 
+	border: 1px solid #cccccc;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom:5px;
+	background: #000000;
+	color: #ffffff;
+}
+
+#tabelku  td { 
+	border: 1px solid #cccccc;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom:5px;
+
+	color: #000000;
+}
+
+a {
+	color: #000000;
+}

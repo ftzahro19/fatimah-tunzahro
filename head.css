@@ -1,0 +1,15 @@
+p {  
+	background-image: url(media/images/img03.jpg); 
+	background-repeat: repeat; }
+page {  
+	background-image: url(media/images/img03.jpg);
+	background-repeat: repeat-y;}
+ol {  
+	background-image: url(media/images/img03.jpg); 
+	background-repeat: repeat-x;}
+ul {  
+	background-image: url(media/images/img03.jpg); 
+	background-repeat: repeat;}
+div {  
+	background-image: url(media/images/img03.jpg); 
+	background-repeat: repeat;}

@@ -1,0 +1,14 @@
+Selasa, 3 Juni 2014
+1. Penambahan menu RIWAYAT PASIEN , 
+- Tambahkan file emr.php dan emr_view.php pada folder POLIKLINIK.
+- Tambahkan link pada file tab_order_poli_edit.php ke file diatas. 
+2. Penambahan modul Rawat Inap
+
+Minggu, 13 Januari 2018
+1. Penambahan menu untuk operator (Klinik Kareo)
+2. Melengkapi menu laporan : Kunjungan, pendapatan, obat
+
+Minggu, 28 Januari 2018
+1. Perbaikan file reg_edit.php dan reg_edit_sim.php
+2. Menambah menu laporan untuk pasien perusahaan
+3. Menambah menu stock opname

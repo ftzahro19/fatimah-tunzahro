@@ -1,0 +1,1 @@
+<?php sql="ALTER TABLE (transaksi_no AUTO_INCREMENT='0')";?>

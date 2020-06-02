@@ -1,0 +1,12 @@
+[gammu]
+port = com10:
+connection = at
+[gammu1]
+port = com11:
+connection = at
+[gammu2]
+port = :
+connection = 
+[gammu3]
+port = :
+connection = 

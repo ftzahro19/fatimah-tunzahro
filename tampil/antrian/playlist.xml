@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <track>
+    <path>audio/noantrian.mp3</path>
+    <title>noantrian</title>
+  </track>
+  <track>
+    <path>audio/satu.mp3</path>
+    <title>satu</title>
+  </track>
+  <track>
+    <path>audio/klinik.mp3</path>
+    <title>klinik</title>
+  </track>
+  <track>
+    <path>audio/Umum.mp3</path>
+    <title>Umum</title>
+  </track>
+  <track>
+    <path>audio/stop.mp3</path>
+    <title>stop</title>
+  </track>
+</xml>

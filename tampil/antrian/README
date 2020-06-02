@@ -1,0 +1,15 @@
+Langkah Instalasi:
+
+1. Ekstrak paket TerbilangSuara.zip ke dalam DocumentRoot Web Server 
+2. Browse http://localhost/TerbilangSuara/
+3. Aplikasi siap digunakan
+
+Catatan:
+
+Karena belum menemukan teknik cache yang baik, 
+aplikasi akan tetap mengulang suara yang sama meski anda telah
+memasukkan bilangan yang berbeda. Solusi sementara adalah dengan 
+membersihkan cache browser secara manual sebagai berikut:
+
+* Chrome  : ctrl + shift + del (centang opsi empty the cache -> clear browsing data)
+* Firefox : ctrl + shift + del (centang opsi clear cache -> clear now)
